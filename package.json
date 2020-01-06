@@ -1,14 +1,19 @@
 {
   "name": "react-native-skeleton-loader-feryadialoi",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Native Skeleton Loader Feryadialoi is a component UI of React Native that suppose to render some prefetch screen before the actual component.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feryadialoi/React-Native-Skeleton-Loader-Feryadialoi.git"
+  },
+  "author": "Feryadialoi",
   "license": "ISC",
-  "devDependencies": {
-    "metro-react-native-babel-preset": "^0.57.0"
-  }
+  "bugs": {
+    "url": "https://github.com/feryadialoi/React-Native-Skeleton-Loader-Feryadialoi/issues"
+  },
+  "homepage": "https://github.com/feryadialoi/React-Native-Skeleton-Loader-Feryadialoi#readme"
 }
